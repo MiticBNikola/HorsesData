@@ -2,9 +2,6 @@ const puppeteer = require('puppeteer');
 const moment = require('moment');
 const capitalize = require('capitalize');
 
-// ./apify_storage/key_value_stores/default/INPUT.json
-//call trough route
-
 const express = require("express");
 const app = express();
 const cors = require("cors");
