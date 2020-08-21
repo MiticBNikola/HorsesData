@@ -1,0 +1,203 @@
+[
+  {
+    "name": "ASLBSA",
+    "value": "94130591f876b9840ed9913b8a66589d79fb60154f43a719615830a7affe9fb7",
+    "domain": "www.timeform.com",
+    "path": "/",
+    "expires": -1,
+    "size": 70,
+    "httpOnly": false,
+    "secure": true,
+    "session": true
+  },
+  {
+    "name": ".AspNet.ApplicationCookie",
+    "value": "0yNcWuk9Jh2X7dagnmQhuByjzgVb_y8qUP-QIYXlaub-oSVH_XzEJSU8rOup7bZ1xGxLvzGmz9iACV8_Dg4wkGgw1VWYOq_wOrQHU2bpOzj7IYLQv5eXdcIN03cLwtDkazF1_esdJa2mLKdi-7iQGbsS03UhuOpReafgrcdXmxgJWhEx3QvuAfvpJxOubHE1Ctj5q1A4RYcZ_9LkDfvu-lIEApI9nTZ5tfEGER1erBnJntQlTOo6v7wLWXuMVna84M2bRjd_i7ZKTJXgWlVvrRKTkM8_ReLfmlGUnnB91opc4SYtZL1Pjr0keXtiaVb_j6Sg955RHa7IxDuNDW6zEXMP2i7vRCjvIe-FTXl2DD2cPLj9QGS-4xUVP_KrqchcJ98029SclwNOdYogluPvyQqZfWFvhOjFCoWaCHI-GgStSrQl7l2dVI5rppLm2iUnGxyOdwNh-F1_MG02W0RmYo6pHHw",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1599220106.245911,
+    "size": 500,
+    "httpOnly": true,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "__qca",
+    "value": "P0-799998543-1598010504121",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1631879304,
+    "size": 31,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_gat_gtag_UA_4796105_9",
+    "value": "1",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1598010563,
+    "size": 23,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_gat",
+    "value": "1",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1598010563,
+    "size": 5,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "__RequestVerificationToken_L2hvcnNlLXJhY2luZw2",
+    "value": "G2Xt-2Z5NphzlfvRqk6A91v3HMXDElf4P84Gf6otcopQPh0JVMZhgx6xyb2yl6DDLjo4n2NcYPQJ5pN6q3wMMyRMKVc1",
+    "domain": "www.timeform.com",
+    "path": "/",
+    "expires": -1,
+    "size": 138,
+    "httpOnly": true,
+    "secure": true,
+    "session": true
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1598010503792.699855267",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1605786506,
+    "size": 32,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_omappvs",
+    "value": "1598010503594",
+    "domain": "www.timeform.com",
+    "path": "/",
+    "expires": 1598011103,
+    "size": 21,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_vis_opt_s",
+    "value": "1%7C",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1606650503,
+    "size": 14,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_omappvp",
+    "value": "5ZhNmIIHQOTnX4H8YF73sH2HjLsQ0LFoEn4ftyeh1L3NpRMcvkZ69ZnJanOeT4m0cFDT5yM0znRlexivs0rwNcOjuvlqBsKp",
+    "domain": "www.timeform.com",
+    "path": "/",
+    "expires": 1943524103,
+    "size": 104,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.326088925.1598010503",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1661082505,
+    "size": 29,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "TFM",
+    "value": "DeviceId=4bd853c9-a1d8-43cf-befd-5084c2aef4f9",
+    "domain": "www.timeform.com",
+    "path": "/",
+    "expires": 3018080903.624795,
+    "size": 48,
+    "httpOnly": false,
+    "secure": true,
+    "session": false
+  },
+  {
+    "name": "ASLBSACORS",
+    "value": "94130591f876b9840ed9913b8a66589d79fb60154f43a719615830a7affe9fb7",
+    "domain": "www.timeform.com",
+    "path": "/",
+    "expires": -1,
+    "size": 74,
+    "httpOnly": false,
+    "secure": true,
+    "session": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ASP.NET_SessionId",
+    "value": "23p5zhnvn0ufgsz1h423nn42",
+    "domain": "www.timeform.com",
+    "path": "/",
+    "expires": -1,
+    "size": 41,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_vwo_uuid_v2",
+    "value": "D8734A5629D425FDE18577A7D6B8AAD8E|0f56a5b0cfeb8a348678ff344d455107",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1629632906,
+    "size": 78,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "_vis_opt_test_cookie",
+    "value": "1",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": -1,
+    "size": 21,
+    "httpOnly": false,
+    "secure": false,
+    "session": true
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.1160606364.1598010503",
+    "domain": ".timeform.com",
+    "path": "/",
+    "expires": 1598096905,
+    "size": 31,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  },
+  {
+    "name": "ARRAffinity",
+    "value": "d4eb535f9cc94a935cb48cc280916c3f1f99f876a634d892e873c91171b5d1a7",
+    "domain": ".www.timeform.com",
+    "path": "/",
+    "expires": -1,
+    "size": 75,
+    "httpOnly": true,
+    "secure": false,
+    "session": true
+  }
+]
