@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 app.get('/', (req, res) => {
     res.status(200).send("OK");
 });
-app.get('/getPosition', async (req, res) => {
+app.get('/getHorseData', async (req, res) => {
     try {
         let raceDate = '2020-08-18 17:20';//req.body.date;
         let raceVenue = 'Fontwell Park';//req.body.venue;
